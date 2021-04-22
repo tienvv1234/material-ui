@@ -15,3 +15,7 @@ is an application that let's you test the performance of your web site
 ## compression image site
 tinyjpg.com 
 cs photosho
+
+## build the header with the app bar component
+
+## Palatte
