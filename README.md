@@ -19,3 +19,7 @@ cs photosho
 ## build the header with the app bar component
 
 ## Palatte
+- the palette is a way to manage the colors used in your application.
+
+## typography
+- manage the text 
