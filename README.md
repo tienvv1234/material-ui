@@ -23,3 +23,8 @@ cs photosho
 
 ## typography
 - manage the text 
+
+## Button
+variant
+- container
+- outlined
